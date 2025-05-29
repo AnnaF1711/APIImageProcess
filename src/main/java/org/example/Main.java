@@ -1,5 +1,6 @@
+// אוה יונין 213894496
+// אנה פיודורוב 322439191
 package org.example;
-
 import javax.swing.*;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
